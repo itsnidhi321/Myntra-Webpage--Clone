@@ -1,0 +1,122 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+/* Header Styling */
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #eaeaea;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.myntra_logo {
+    max-height: 40px;
+}
+
+/* Authentication Container */
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 60px);
+    background-color: #f9f9f9;
+}
+
+/* Authentication Box */
+.auth-box {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+}
+
+.auth-box h2 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.auth-box p {
+    margin-bottom: 20px;
+    color: #777;
+    font-size: 14px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #333;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.auth-btn {
+    background-color: #ff3f6c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.auth-btn:hover {
+    background-color: #e7315c;
+}
+
+.google-login {
+    background-color: #4285f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.google-login:hover {
+    background-color: #3367d6;
+}
+
+/* Divider */
+.divider {
+    margin: 20px 0;
+    font-size: 14px;
+    color: #999;
+    text-transform: uppercase;
+}
+
+/* Footer */
+.auth-footer {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #666;
+}
+
+.auth-footer a {
+    color: #ff3f6c;
+    text-decoration: none;
+}
+
+.auth-footer a:hover {
+    text-decoration: underline;
+}
