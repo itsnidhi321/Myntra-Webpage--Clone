@@ -1,9 +1,12 @@
 #ScreenShorts
-![Screenshot (139)](https://github.com/user-attachment![Screenshot (140)](https://github.com/user-attachments/assets/b3ea5913-f5df-4e8a-9301-6c49d20eb66c)
-s/assets/63c41cb0-52b2-4371-b09d-44cf83a68bd4)![Screenshot (141)](https://github.com/user-attachments/assets/45ee48f3-aaac-4c67-9411-3432b8b24e98)
+![Screenshot (139)](https://github.com/user-attachments/assets/2d6daca5-3414-43bc-b511-0797a6684c36)
 
+![Screenshot (140)](https://github.com/user-attachments/assets/5b36b612-7106-4eff-9021-d319df5f0380)
+
+![Screenshot (141)](https://github.com/user-attachments/assets/1428551d-573e-4d1c-80c1-ac757cb4d88c)
 
 #Description for Myntra Webpage Clone Project
+
 -The Myntra Webpage Clone project is a front-end development initiative designed to replicate the user interface of Myntra, a popular fashion e-commerce platform. This project aims to provide a hands-on experience in creating visually appealing and responsive web pages using modern web technologies.
 
 #Key Features:
