@@ -4,6 +4,10 @@
 ![Screenshot (140)](https://github.com/user-attachments/assets/5b36b612-7106-4eff-9021-d319df5f0380)
 
 ![Screenshot (141)](https://github.com/user-attachments/assets/1428551d-573e-4d1c-80c1-ac757cb4d88c)
+![Screenshot (142)](https://github.com/user-attachments/assets/eb533c4f-d28f-4a44-8e8a-7b6a615d6875)
+
+
+![Screenshot (143)](https://github.com/user-attachments/assets/ffe7a6bd-5a5f-4960-9d5b-c6abf2daca94)
 
 #Description for Myntra Webpage Clone Project
 
